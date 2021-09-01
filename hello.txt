@@ -7,9 +7,8 @@ yyhello git!
 hello git!
 hello git!
 22222222
-
-adfaad·¢
-°¢·¢
-ËÍ
+adfaad
 hot-fix
 master
+hot-fix test
+
